@@ -1,5 +1,5 @@
-# html_test_basic
-html tutorial
+# html+css_practice
+html/css tutorial from sourse : https://stepik.org
 
-Learning the basics of the html course
-sourse : https://stepik.org
+Learning the basics of the html/css course
+
