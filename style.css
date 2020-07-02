@@ -1,0 +1,10 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+h2,
+h3 {
+  font-style: sans-serif;
+}
