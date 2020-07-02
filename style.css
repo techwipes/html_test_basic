@@ -15,11 +15,15 @@ h1 {
   font-size: 32px;
 }
 
-.tbl {
-  border: 2px black;
+.tbl, tr, td, th  {
+  border: 2px solid black;
 }
 
 figcaption {
   font-style: italic;
   font-weight: bold;
+}
+
+.rightimg {
+  float: right;
 }
